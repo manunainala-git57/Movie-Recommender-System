@@ -32,6 +32,12 @@ The dataset used for training the recommendation model is **movies_data.csv**, w
 
 ---
 
+## Clone The Project
+```
+  git clone https://github.com/manunainala-git57/Movie-Recommender-System.git
+```
+---
+
 ## 📚 Project Structure
 ```
 Movie Recommender System Flask/
